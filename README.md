@@ -34,18 +34,4 @@ O projeto contém:
 - Visual Studio Code
 - GitHub
 
----
 
-## 📷 Prévia do projeto
-
-<img width="700" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png">
-
----
-
-## 💻 Estrutura utilizada
-
-```html
-<h1> títulos </h1>
-<img> imagens
-<a> links
-<!-- comentários -->
